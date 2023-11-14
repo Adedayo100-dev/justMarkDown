@@ -11,9 +11,9 @@ Name : Adédayọ Taiwò
 
     This project helps keep track of tasks & finances 
 
-    [x] Write the press release
-    [ ] MVP
-    [ ] Deployed to Prduction
+    - [x] Write the press release
+    - [ ] MVP
+    - [ ] Deployed to Prduction
     
 2. Virusopedia
 
