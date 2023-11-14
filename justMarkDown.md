@@ -1,26 +1,26 @@
 # GitMe 
-Name : Adédayọ Taiwò
+Name : Adédayọ Taiwò :joy:
 ### *Quick Links*
-[My Portfolio](https://www.linkedin.com/in/adedayo-taiwo-7951051b3/ "My Portfolio") |
-[My LinkedIn](https://www.linkedin.com/in/adedayo-taiwo-7951051b3/ "My LinkedIn") |
+[Portfolio](https://www.linkedin.com/in/adedayo-taiwo-7951051b3/ "My Portfolio") |
+[LinkedIn](https://www.linkedin.com/in/adedayo-taiwo-7951051b3/ "My LinkedIn") |
 ### Projects
 1. WorkForce
 
-    [Github Code](https://github.com/Adedayo100-ux/WorkForce) |
-    [View](https://github.com/Adedayo100-ux/WorkForce "View WorkForce in production")
-
     This project helps keep track of tasks & finances 
 
-    - [x] Write the press release
-    - [ ] MVP
-    - [ ] Deployed to Prduction
+    - [x] Write Code [Code](https://github.com/Adedayo100-ux/WorkForce)
+    - [x] Test Code
+    - [ ] Deployed to Prduction ~~[View](# "View WorkForce in production")~~
+    - [ ] Needs Rewriting
     
 2. Virusopedia
 
-    [Github Code](https://github.com/Adedayo100-ux/virusopedia) |
-    [View](https://github.com/Adedayo100-ux/WorkForce "View Virusopedia in production")
+    This is an atempt to make a covid-19 tracker
 
-    This project helps keep track of tasks & finances 
+    - [x] Write Code [Code](https://github.com/Adedayo100-ux/virusopedia)
+    - [x] Test Code
+    - [ ] Deployed to Prduction ~~[View](# "View Virusopedia in production")~~
+    - [x] Needs Rewriting
 
 ### Skills
 - Javascript
@@ -35,11 +35,3 @@ Name : Adédayọ Taiwò
 - HTML
 - CSS
 - Bootstrap
-
-
-> Highlights information that users should take into account, even when skimming.
-
-That is so funny! :joy:
-
-term
-: definition
