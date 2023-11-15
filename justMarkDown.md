@@ -2,7 +2,7 @@
 Name : Adédayọ Taiwò :joy:
 ### *Quick Links*
 [Portfolio](https://www.linkedin.com/in/adedayo-taiwo-7951051b3/ "My Portfolio") |
-[LinkedIn](https://www.linkedin.com/in/adedayo-taiwo-7951051b3/ "My LinkedIn") |
+[LinkedIn](https://www.linkedin.com/in/adedayo-taiwo-7951051b3/ "My LinkedIn")
 ### Projects
 1. WorkForce
 
@@ -10,7 +10,7 @@ Name : Adédayọ Taiwò :joy:
 
     - [x] Write Code [Code](https://github.com/Adedayo100-ux/WorkForce)
     - [x] Test Code
-    - [ ] Deployed to Prduction ~~[View](# "View WorkForce in production")~~
+    - [ ] Deploy to Production ~~[View](# "View WorkForce in production")~~
     - [ ] Needs Rewriting
     
 2. Virusopedia
@@ -19,7 +19,7 @@ Name : Adédayọ Taiwò :joy:
 
     - [x] Write Code [Code](https://github.com/Adedayo100-ux/virusopedia)
     - [x] Test Code
-    - [ ] Deployed to Prduction ~~[View](# "View Virusopedia in production")~~
+    - [ ] Deploy to Production ~~[View](# "View Virusopedia in production")~~
     - [x] Needs Rewriting
 
 ### Skills
@@ -27,6 +27,7 @@ Name : Adédayọ Taiwò :joy:
 - Node JS
 - Express JS
 - Vue JS
+- MongoDB
 - Python
 - Virtualization
 - UNIX Systems
